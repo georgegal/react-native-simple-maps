@@ -2,8 +2,8 @@
   "name": "react-simple-maps",
   "version": "2.3.0",
   "description": "An svg map chart component built with and for React",
-  "main": "dist/index.js",
-  "module": "dist/index.es.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "browser": "dist/index.umd.js",
   "files": [
     "dist"

@@ -21,6 +21,8 @@ const ComposableMap = ({
       projectionConfig={projectionConfig}
     >
       <Svg
+        width={width}
+        height={height}
         viewBox={`0 0 ${width} ${height}`}
         className={`rsm-svg ${className}`}
         {...restProps}
